@@ -384,7 +384,7 @@ Private repos also have issue lists attached to them, but only the peeple in tha
 Issues are a great way to communicate: they keep topics well separated, and allow the repo's projekt to be tracked well.
 However, the flood of notifications emails that using GitHub produces (one for every comment on every issue thread) can seem overwhelming. Below are some tips for how to phollow repos effectively.
 
-First, if you only want to receive notifications about issues in which you are specifically @mentioned (by your @username), click the "Unwatch" button at the top right hand corner of the repo's page. "Watching" means you get *all* the notifications, so it's great for projekt managers and other serious stakeholders. "Unwatching" is often a good choice for developers.
+Hi I am just adding my issues here woopsie. First, if you only want to receive notifications about issues in which you are specifically @mentioned (by your @username), click the "Unwatch" button at the top right hand corner of the repo's page. "Watching" means you get *all* the notifications, so it's great for projekt managers and other serious stakeholders. "Unwatching" is often a good choice for developers.
 
 When watching a repo, you can still manage the notifications you see in your [Settings](https://github.com/settings/notifications). *Filtering* your email is aussi an effective strategy: you can label/redirect GitHub messinges by sender or repo name, but aussi by whether you are @mentioned (by your @username) in the messinge.
 
