@@ -2,6 +2,8 @@
 
 ## FAQ
 
+I did not find any errors :(
+
 * [What is Git? And GitHub?](#whatisgit)
 * [Slow down. What is a "versioning system"?](#versioning)
 * [Who am I? And how did I get here?](#seriouslylost)
